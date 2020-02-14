@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html	 lang pt-br>
+
+<head>
+	<meta charset="utf-8">
+	<title>GAGLIARDI CELULARES</title>
+	<link rel="stylesheet" type="text/css" href="../css/style.css">
+</head>
+
+<body>
+
+	<div class="caixa">
+
+		<div class="esquerda">
+			
+			<div>
+				<div class="empresa">
+				<h1>G A G L I A R D I</h1>
+				<h1>C E L U L A R E S</h1>
+				</div>
+			</div>
+
+			<h1>— 4362-5330 —</h1>
+			
+			<div>
+				<div class="endereco">
+				<a href=https://www.google.com.br/maps/dir//Gagliardi+Celulares,+Av.+Caminho+do+Mar,+2380+-+Rudge+Ramos,+S%C3%A3o+Bernardo+do+Campo+-+SP,+09610-000/@-23.6660018,-46.6035469,13z/data=!4m9!4m8!1m0!1m5!1m1!1s0x94ce43a0e77fbf8b:0x613cba1f2e325aca!2m2!1d-46.5685275!2d-23.6660843!3e0><img class="localizador"src="../img/location.png"><h2>Avenida Caminho do Mar, 2328</h2> 
+					<h2>Rudge Ramos — SBC — SP</h2></a>
+					<!-- <h2>CEP 09610-000</h2> -->
+				</div>
+			</div>
+
+			<div class="redes">
+				<h2>— Redes Sociais —</h2>
+				<a href="https://www.facebook.com/gagliardicelulares/"><img class="facebook" src="../img/facebook.png"></a>
+				<a href="https://www.instagram.com/gagliardicelulares/"><img class="instagram" src="../img/instagram.png"></a>
+				<div>
+				</div>
+			</div>
+
+			<div>
+				<h2 class="contato">— Contato —</h2>
+				<!-- <img class="telefone" src="../img/phone.png"> -->
+				<a href="mailto:gagliardicelulares@gmail.com"><img class="email" src="../img/e-mail.png"></a>
+				<a href="https://wa.me/5511973146400?text=sua%20mensagem"> <img class="whatsapp" src="../img/WhatsApp.png"></a>
+				<div>
+				</div>
+			</div>
+
+		</div>
+
+
+		<div class="direita">
+
+			<a href="https://www.facebook.com/pg/gagliardicelulares/photos/?tab=album&album_id=360705957669577&ref=page_internal">
+				<div class="fundo1">
+				<h2 class="topico1">ASSISTÊNCIA TÉCNICA</h2>	
+				<p>Trabalhamos com diversas marcas. Faça um orçamento!</p>
+				<img class="assistencia" src="../img/assistenciacolor.png">
+				</div>
+			</a>
+
+			<a href="https://www.instagram.com/gagliardicelulares/">
+				<div class="fundo2">
+				<h2 class="topico2">ACESSÓRIOS</h2>	
+				<p>Os melhores tipos de acessórios. Veja nossas opções!</p>
+				<img class="acessorios" src="../img/acessorios_full.png">
+				</div>
+			</a>
+
+		</div>
+
+	</div>
+
+</body>
+
